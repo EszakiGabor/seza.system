@@ -167,17 +167,33 @@ FoldCell applies to the world itself rather than functioning only as a decorativ
 
 ---
 
-## COPYRIGHT
+## COPYRIGHT & CREATIVE RIGHTS
 
-These artworks and the associated creative concepts are protected by the **SEZA.SYSTEM Creative License**.
+These artworks, characters, visual designs, worldbuilding elements, lore, mythology, dragon designs, color systems, FoldCell geometry, and associated creative concepts are original creative works of the **SEZA.SYSTEM** project.
 
-See:
+The MIT `LICENSE` in the repository applies to technical material where explicitly applicable and does **not** grant permission to reproduce, modify, redistribute, commercially exploit, or create derivative works from the visual and creative works documented in this directory.
 
-`../SEZA-SYSTEM-CREATIVE-LICENSE.md`
+### Permitted Use
 
-The complete visual specification is documented in:
+You MAY:
 
-`../SEZA-SYSTEM-MASTER-BLUEPRINT.md`
+* View the artworks
+* Share links to the original repository
+* Share the original TikTok posts from **@seza.system**
+* Reference the universe for non-commercial discussion or inspiration
+
+### Restricted Use
+
+You MAY NOT:
+
+* Repost the artworks as your own
+* Claim authorship of any SEZA.SYSTEM visual work or creative element
+* Modify, remix, or alter the artworks
+* Create derivative works based on Aureya, Genesis, the Celestial White Dragon, FoldCell, or associated designs
+* Use the artworks for commercial, promotional, or influencer content without permission
+* Include the artworks in AI training datasets or use them to train AI models without permission
+
+Repository commit history, timestamps, and documentation provide a chronological record of the project's development and publication.
 
 ---
 
